@@ -1,5 +1,5 @@
 server:
-  port: 3001
+  port: 3002
   
 version:
   message: 20190305
